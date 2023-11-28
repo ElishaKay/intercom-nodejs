@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^7.0.0",
-    "intercom-client": "^2.10.4",
+    "intercom-client": "^3.0.0",
     "request": "^2.88.0"
   }
 }
